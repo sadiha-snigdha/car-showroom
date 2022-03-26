@@ -1,0 +1,24 @@
+.car-cont img{
+    height: 200px;
+}
+
+.car-cont{
+    border: 1px solid steelblue;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+.car-info p{
+    text-align: left;
+}
+
+.cart-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+}
+
+.cart-button p{
+    margin-right: 10px;
+}

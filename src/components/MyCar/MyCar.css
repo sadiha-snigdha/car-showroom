@@ -1,0 +1,10 @@
+.myCar img{
+    height: 100px;
+    margin-top: 30px;
+}
+
+.myCar{
+    border: 1px solid steelblue;
+    border-radius: 20px;
+    margin-top: 20px;
+}

@@ -1,0 +1,10 @@
+.selectedCar{
+    height: 50px;
+    border-radius: 50px;
+}
+
+.selected-item{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
